@@ -5,7 +5,7 @@ Frontend Developer in the makeing..
 -----------------------------------
 
 * 🌍  I'm based in Germany
-* 🧠  I'm learning Career Path Front-End Engineer
+* 🧠  I'm learning Career Path Front-End Engineer on Codecadamy
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
