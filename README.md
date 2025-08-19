@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephanie
 =======================================================================================================================================
 
-Frontend Developer in the makeing..
+I am currently learning SQL..
 -----------------------------------
 
 * 🌍  I'm based in Germany
-* 🧠  I'm learning Career Path Front-End Engineer on Codecadamy
+* 🧠  I'm interested in coding, data analysis, and cybersecurity
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
