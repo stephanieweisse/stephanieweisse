@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I like to analyze datas and I'm about to become a self-made data analyst👩‍💻 Currently I'm learning on Codecadamy!  
+I like to analyze datas and I'm about to become a self-made data analyst👩‍💻Currently I'm learning on Codecadamy!  
   
 
 <br/>  
@@ -32,9 +32,6 @@ I like to analyze datas and I'm about to become a self-made data analyst👩‍�
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
