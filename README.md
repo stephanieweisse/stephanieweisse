@@ -22,16 +22,14 @@ I like to analyze datas and I'm about to become a self-made data analyst👩‍�
   
 
 - 📚 I’m currently learning PostgreSQL  
-  
-
-- 🧠 I'm interested in data analytics, cybersecurity and web development  
-  
-
-- 🤝 I'm open to collaborating on interesting projects  
 
 
 </td><td valign="top" width="50%">
 
+🧠 I'm interested in data analytics, cybersecurity and web development  
+  
+
+🤝 I'm open to collaborating on interesting projects  
 
 
 </td></tr></table>  
